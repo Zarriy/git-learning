@@ -4,3 +4,4 @@ what the hell is going on?
 
 const goodBranch = 'yes, it is';
 const anotherB = 'to be honest';
+const another= 'another';
